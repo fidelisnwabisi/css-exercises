@@ -1,4 +1,8 @@
-.ClickMe{
+.ClickMe {
     background-color: black;
     color: white;
+}
+
+.NoClickMe {
+    background-color: yellow;
 }
