@@ -1,10 +1,10 @@
 .odd {
-    background-color: lightpink;
+    background-color: hwb(351 71% 0%);
     font-family: verdana, DejaVu Sans, sans-serif;
 }
 
 #evenTwo {
-    color: blue;
+    color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #evenFour {
-    background-color: lightgreen;
+    background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;
 }
